@@ -1,6 +1,6 @@
 from pytube import YouTube
 
-save_path = open(r'C:\Users\Enez\Downloads','w')
+save_path = open(r'C:\Users\xxxx\Downloads','w')
 link = "https://www.youtube.com/watch?v=4KlRnvlxfHw&pp=ygURZ2VjZWxlciBrYXJhIHRyZW4%3D"
 
 try:
